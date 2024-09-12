@@ -49,7 +49,7 @@ public class t_employee extends t_person {
         System.out.println("* Name: " + fullName() + "          *");
         System.out.println("* Age: " + getAge() + "                     *");
         System.out.println("* Employee ID: " + this.employeeId + "       *");
-        System.out.println("* Supervisor ID: " + this.supervisorId + "         *");
+        System.out.println("* Supervisor ID: " + this.supervisorId + "       *");
         System.out.println("* Salary: " + this.salary + "€            *");
         System.out.println("******************************\n\n");
     }
