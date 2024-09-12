@@ -12,6 +12,12 @@ public class t_person {
     }
 
 
+    // Setter method to set the last name and first name
+    public void setName(String ln, String fn) {
+        this.name = ln;
+        this.firstName = fn;
+    }
+
     // Setter method to set the age
     public void setAge(int age) {
         this.age = age;
