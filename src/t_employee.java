@@ -9,7 +9,7 @@ public class t_employee extends t_person {
         super(ln, fn); // Call the constructor of the base class Person
         this.employeeId = empId; // Set the employee ID
         this.salary = 60000; // Default value for salary
-        this.supervisorId = "SUP007"; // Default value for supervisor ID
+        this.supervisorId = "HA67M"; // Default value for supervisor ID
         this.setAge(a); // Set the age using the setter method
     }
 
