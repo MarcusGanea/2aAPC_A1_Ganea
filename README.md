@@ -1,6 +1,6 @@
 # 2aAPC_A1_Ganea
 <a name="readme-top"></a>
-# HelloWorld
+# Vererbung
 Author: Ganea Marcus-Alin <br>
 LBS Eibiswald | 2aAPC <br>
 Erstellt am 12.09.2024
